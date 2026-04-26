@@ -22,7 +22,7 @@ Para la defensa del proyecto, lo más importante es entender cómo se aplican es
 * Contar con un archivo, podría ser `pagos.txt` (formato: `ID_PAGO, MONTO`)
 
 ### Pasos
-1.  **Compilar:** En una terminal en la carpeta raíz del proyecto se ejecuta:
+1.  **Compilar:** En una terminal en la carpeta `ejemploAplicacion` del proyecto se ejecuta:
     ```bash
     javac *.java
     ```
